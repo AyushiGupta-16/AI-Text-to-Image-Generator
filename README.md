@@ -33,9 +33,11 @@ This project demonstrates how AI can convert natural language descriptions into 
 ---
 
 ## 📁 Project Structure
+```
 app.py → Main script
 generated_images/ → Output images
 README.md → Documentation
+```
 
 ## 💼 Real World Use Cases
 • Social media content generation  
@@ -46,9 +48,10 @@ README.md → Documentation
 ---
 
 ## ▶️ How to Run
+```bash
 pip install diffusers transformers accelerate torch pillow
 python app.py
-
+```
 ---
 
 ## 👩‍💻 Author
